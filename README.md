@@ -6,7 +6,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of a hotel booking d
 ## 🏨 Dataset Overview
 The dataset contains booking details of two types of hotels: **Resort Hotel** and **City Hotel**. The key attributes include customer demographics, booking details, cancellation history, and stay information.
 
-![Dataset Screenshot](C:\Users\Khan Mokhit\Downloads\HOTEL IMAGE.jpeg)
+(C:\Users\Khan Mokhit\Downloads\HOTEL IMAGE.jpeg)
 
 ## 📂 Column Descriptions
 | Column Name | Description |
